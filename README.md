@@ -19,12 +19,12 @@ Customer retention and churn rates are important for businesses to have sustaina
 This project uses a Online Retail [Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail) from the UCI Machine Learning Repository
 ___
 # Files
-[Main_File.ipynb](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Main_File.ipynb) The main project file in a notebook
-[MySQL_Codes.md](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/MySQL_Codes.md) Markdown file for easier code reading
-[Dashboard_File.pbix](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_File.pbix) Power BI file
-[Dashboard_1.jpg](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_1.jpg)
-[Dashboard_2.jpg](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_2.jpg)
-[MySQL_Procedures](https://github.com/aaronxxie/Cohort-RFM-MySQL/tree/main/MySQL_Procedures)
+* [Main_File.ipynb](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Main_File.ipynb) The main project file in a notebook
+* [MySQL_Codes.md](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/MySQL_Codes.md) Markdown file for easier code reading
+* [Dashboard_File.pbix](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_File.pbix) Power BI file
+* [Dashboard_1.jpg](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_1.jpg)
+* [Dashboard_2.jpg](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_2.jpg)
+* [MySQL_Procedures](https://github.com/aaronxxie/Cohort-RFM-MySQL/tree/main/MySQL_Procedures)
 ___
 # Table of Contents
 1. The Problem
