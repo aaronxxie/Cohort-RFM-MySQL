@@ -23,5 +23,5 @@ This project uses a Online Retail [Data Set](https://archive.ics.uci.edu/ml/data
 # Table of Contents
 
 # The Dashboard
-![Dashboard 1](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dashboard%201.jpg?raw=true)
-![Dashboard 2](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dasgboard%202.jpg?raw=true)
+![Dashboard 1](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dashboard_1.jpg?raw=true)
+![Dashboard 2](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dasgboard_2.jpg?raw=true)
