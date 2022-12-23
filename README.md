@@ -15,7 +15,7 @@ Customer retention and churn rates are important for businesses to have sustaina
 * Use the Power Query Editor and DAX language in Power BI to automate RFM analysis.
 * This project is for exploring the probability of MySQL and Power BI, so don't use Python!
 
-# The data set
+# The Data Set
 This project uses a Online Retail [Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail) from the UCI Machine Learning Repository
 ___
 # Files
@@ -27,31 +27,31 @@ ___
 [MySQL_Procedures](https://github.com/aaronxxie/Cohort-RFM-MySQL/tree/main/MySQL_Procedures)
 ___
 # Table of Contents
-* 1. The Problem
-    * 1.1. The Goal
-* 2. Data Preparation
-* 3. Data Processing
-    * 3.1. Dataset Basic Info
-    * 3.2. Removing Duplicate Rows
-    * 3.3. Dealing with missing values
-    * 3.4. Detecting Anormal Values/Outliers
+1. The Problem
+    1. The Goal
+2. Data Preparation
+3. Data Processing
+    1. Dataset Basic Info
+    2. Removing Duplicate Rows
+    3. Dealing with missing values
+    4. Detecting Anormal Values/Outliers
 
 #### Data Analysis Part I
-* 4. Cohort Analysis
-    * 4.1. Cohort Analysis by Countries
-* 5. Trending Analysis
-* 6. Data Sharing I
-    * 6.1. Dashboard 1
-* 7. Summary I
+4. Cohort Analysis
+    1. Cohort Analysis by Countries
+5. Trending Analysis
+6. Data Sharing I
+    1. Dashboard 1
+7. Summary I
 
 #### Data Analysis Part II
-* 8. RFM Analysis
-* 9. Additional Analysis
-* 10. Data Sharing II
-    * [10.1. Dashboard 2
-* 11. Summary II
+8. RFM Analysis
+9. Additional Analysis
+10. Data Sharing II
+    1. Dashboard 2
+11. Summary II
 ___
-# The Dashboard
+# Dashboards
 ![Dashboard 1](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dashboard_1.jpg?raw=true)
 ![Dashboard 2](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Dashboard_2.jpg?raw=true)
 ___
