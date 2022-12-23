@@ -18,6 +18,10 @@ Customer retention and churn rates are important for businesses to have sustaina
 # The data set
 This project uses a Online Retail [Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail) from the UCI Machine Learning Repository
 
+# Files
+
+# Table of Contents
+
 # The Dashboard
 ![Dashboard 1](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dashboard%201.jpg?raw=true)
 ![Dashboard 2](https://github.com/aaronxxie/cohort-RFM-MySQL/blob/main/Dasgboard%202.jpg?raw=true)
