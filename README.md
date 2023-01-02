@@ -15,8 +15,8 @@ Customer retention and churn rates are important for businesses to have sustaina
 * Use the Power Query Editor and DAX language in Power BI to automate RFM analysis.
 * This project is for exploring the probability of MySQL and Power BI, so don't use Python!
 
-# The Data Set
-This project uses a Online Retail [Data Set](https://archive.ics.uci.edu/ml/datasets/online+retail) from the UCI Machine Learning Repository
+# The Dataset
+This project uses a Online Retail [Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) from the UCI Machine Learning Repository
 ___
 # Files
 * [Main_File.ipynb](https://github.com/aaronxxie/Cohort-RFM-MySQL/blob/main/Main_File.ipynb) The main project file in a notebook
